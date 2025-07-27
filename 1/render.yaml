@@ -3,7 +3,7 @@ services:
 - type: web
   name: TASK 1 (n_numbers)
   runtime: python
-  repo: https://github.com/Ashraf1292/PaaS
+  repo: https://github.com/Ashraf1292/Labib_PaaS
   plan: free
   region: oregon
   buildCommand: cd even_number_ && pip install -r requirements.txt
